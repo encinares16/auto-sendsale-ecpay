@@ -83,4 +83,5 @@ In the menu, select Option 1 to restart the app. You can edit references.txt and
 
 **Option 2: Check Transaction Status**
 In the menu, select Option 2 to check the transaction status and append the declined transactions to the CSV file located in the output folder.<br><br>
+![add references](guide/check-status.png)<br><br>
 ![add references](guide/output.png)
