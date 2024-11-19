@@ -71,7 +71,7 @@ PROD_SEVEN_CONNECT_PASS=YOURPASSWORDHERE
 
 ![add references](guide/add-references.png)
 
-**2. Run the Application**
+**3. Run the Application**
  
 To run the application using the terminal, type node app.js. The script will just automate browser navigation, allowing you to manually to process send sale.
 Browser shortcuts: next tab ***CTRL+TAB***, previous tab hold ***CTRL & SHIFT + T***, close tab ***CTRL + W***
