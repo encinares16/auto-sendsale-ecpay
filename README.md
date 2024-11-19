@@ -4,8 +4,13 @@ This guide will walk you through the steps to clone a repository, install depend
 
 ## Prerequisites
 
-- **Node.js** (version 14 or later recommended)
-- **Git**
+- **Node.js**
+- **Git Bash**
+- **VS Code**
+
+https://nodejs.org/en
+https://git-scm.com/downloads
+https://code.visualstudio.com/download
 
 Check NodeJS Version
 
