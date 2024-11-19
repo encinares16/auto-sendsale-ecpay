@@ -42,7 +42,7 @@ git clone https://github.com/encinares16/auto-sendsale-ecpay.git
 ```
 
 ```cmd
-cd log-file-extractor
+cd auto-sendsale-ecpay
 ```
 
 Installing dependencies
@@ -51,7 +51,9 @@ Installing dependencies
 npm install
 ```
 
-**3. Edit .env file (7connect credential)**
+# Running The Application
+
+**1. Edit .env file (7connect credential)**
 ```bash
 Open VS Code and edit the environment variable.
 PROD_SEVEN_CONNECT_USERNAME=auto_send_sale
@@ -59,6 +61,25 @@ PROD_SEVEN_CONNECT_PASS=YOURPASSWORDHERE
 ```
 ![add references](guide/credentials.png)
 
-**3. Add 7connect references in the text file. References.txt**
+**2. Add 7connect references in the text file. References.txt**
 
 ![add references](guide/add-references.png)
+
+**2. Run the Application**
+ 
+To run the application using the terminal, type node app.js. The script will just automate browser navigation, allowing you to manually send the sale.
+Browser shortcuts: next tab ***CTRL+TAB***, previous tab hold ***CTRL & SHIFT + T***, close tab ***CTRL + W***
+
+```bash
+node app.js
+```
+
+![add references](guide/run.png)
+
+**Option 1: Restart Application**
+In the menu, select Option 1 to restart the app. You can edit references.txt and add the next batch of entries.
+![add references](guide/restart-app.png)
+
+**Option 2: Check Transaction Status**
+In the menu, select Option 2 to check the transaction status and append the declined transactions to the CSV file located in the output folder.
+![add references](guide/output.png)
