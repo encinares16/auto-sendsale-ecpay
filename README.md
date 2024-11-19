@@ -1,4 +1,4 @@
-# 7connect Auto Send Sale Script
+# 7connect Auto Send Sale Script (Current Day)
 
 This guide will walk you through the steps to clone a repository, install dependencies, and run the application.
 
