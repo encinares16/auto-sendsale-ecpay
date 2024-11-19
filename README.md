@@ -1,4 +1,4 @@
-# 7connect Auto Send Sale Script (Current Day)
+# 7connect Auto Send Sale (Current Day)
 
 This guide will walk you through the steps to clone a repository, install dependencies, and run the application.
 
@@ -98,5 +98,7 @@ In the menu, select Option 2 to check the transaction status and append the decl
 ![add references](guide/output.png)<br><br>
 
 
-Rerun the app if the error in the navigation persists.
+Rerun the app if the error in the navigation persists.<br>
+Properly end the user session by logging out the user before closing the browser or pressing ***CTRL+C*** in the terminal. 
 
+Happy Send Sale! 🎉
