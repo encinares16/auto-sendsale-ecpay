@@ -7,6 +7,13 @@ This guide will walk you through the steps to clone a repository, install depend
 - **Node.js** (version 14 or later recommended)
 - **Git**
 
+Check NodeJS Version
+
+```cmd
+node -v or node --version 
+```
+![add references](guide/node-version.png)
+
 
 # Steps
 
@@ -50,11 +57,8 @@ Open VS Code and edit the environment variable.
 PROD_SEVEN_CONNECT_USERNAME=auto_send_sale
 PROD_SEVEN_CONNECT_PASS=YOURPASSWORDHERE
 ```
+![add references](guide/credentials.png)
 
 **3. Add 7connect references in the text file. References.txt**
-```bash
-Open VS Code and edit the environment variable.
-PROD_SEVEN_CONNECT_USERNAME=auto_send_sale
-PROD_SEVEN_CONNECT_PASS=YOURPASSWORDHERE
-```
 
+![add references](guide/add-references.png)
