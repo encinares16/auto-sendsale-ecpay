@@ -19,7 +19,8 @@ node -v or node --version
 
 **1. Run Git Bash**
 
-   Open any folder, right-click, select **Open Git Bash Here** and type the following command on the terminal.
+   Open any folder, right-click, select **Open Git Bash Here** and type the following command on the terminal.  <br><br>
+![add references](guide/right-mouse-click.png)
 
 Create a directory
    
@@ -77,9 +78,9 @@ node app.js
 ![add references](guide/run.png)
 
 **Option 1: Restart Application**
-In the menu, select Option 1 to restart the app. You can edit references.txt and add the next batch of entries.
+In the menu, select Option 1 to restart the app. You can edit references.txt and add the next batch of entries. <br><br>
 ![add references](guide/restart-app.png)
 
 **Option 2: Check Transaction Status**
-In the menu, select Option 2 to check the transaction status and append the declined transactions to the CSV file located in the output folder.
+In the menu, select Option 2 to check the transaction status and append the declined transactions to the CSV file located in the output folder.<br><br>
 ![add references](guide/output.png)
