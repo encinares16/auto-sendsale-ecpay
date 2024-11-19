@@ -57,6 +57,12 @@ Installing dependencies
 npm install
 ```
 
+Open the project in Visual Studio Code
+
+```
+code . 
+```
+
 # Running The Application
 
 **1. Edit .env file (7connect credential)**
